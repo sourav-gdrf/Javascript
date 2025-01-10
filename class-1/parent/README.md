@@ -1,1 +1,1 @@
-[parent](../)
+[parent](../class-1)
