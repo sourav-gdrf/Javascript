@@ -5,4 +5,6 @@ javascript variable is very important to store a data
 var a = 1;// this is a number type
 var b = "hello world";// this is a string type
 ```
+###smail 
+#big
 [class-1](./class-1/)
